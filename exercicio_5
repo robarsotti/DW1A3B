@@ -64,5 +64,62 @@
         </body>
     </html>
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
+ARQUIVO CSS:
+
+
+
+h1 {
+    background-color: #D8BFD8;
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+h2  {
+    background-color: #D8BFD8;
+    color:black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+h3 {
+    background-color:#D8BFD8;
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+body {
+
+    background-color: #4169E1;
+    color: black;
+    text-align: justify
+}
+
+aside {
+    background-color: #4169E1;
+    padding: 15px;
+}
+
+#titulo {
+
+    background-color: #4169E1;
+    color: black;
+    text-align: justify
+}
+
+navbar-cont li {
+    display: flex;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #D8BFD8;
+    padding: 5px;
+}
             
