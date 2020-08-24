@@ -1,1 +1,68 @@
 
+
+<!DOCTYPE HTML>
+
+    <html lang="pt-br">
+    
+        <head> 
+            <meta charset="utf-8"/>
+
+            <title> CV - Rodrigo Barsotti </title> 
+            
+            <link rel="stylesheet" href="site.css">
+        </head>
+
+        <body>
+            <main>
+            <p>
+            <h1 id="titulo"> <strong> CURRICULUM VITAE </strong> </h1>
+            <div> 
+                <p> Nome: Rodrigo Barsotti Pereira Pinto Oberhuber <br>
+                    Data de nascimento: 22/07/2000 <br>
+                    Cidade natal: São Paulo - SP <br>
+                    CPF: 484.097.838-78 <br>
+                    Nome da mãe: Jacqueline Barsotti Oberhuber <br> <br>
+
+                    Objetivo profissional: vagas para cargos como analista de banco de dados júnior, desenvolvimento de softwares ou estágio na área de banco de dados.
+                   
+                    <h2>Formação acadêmica:</h2>
+                    <nav>
+                        <p> Técnico em Informática – Centro Paula Souza ETEC de Hortolândia (Hortolândia – SP) – 2016/2017; </p>
+                          <p>  Graduação em Análise e Desenvolvimento de Sistemas – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (São Paulo – SP) – Cursando (2018/2021).</p>
+                        
+                    </nav>
+                    Formação acadêmica:
+                
+                </p>
+
+            <h2> <strong> Experiência profissional: </strong> </h2>
+                <b><br>Empresa Consistec (2018/2020)</b> – Empresa com mais de 35 anos de mercado, atua na fabricação de sensores de temperatura industriais, como termopares, termoresistências e termistores.
+                   <br><br><b> Cargo: </b> Suporte Técnico.
+                   <br><b> Atividades desenvolvidas:</b> Parte de uma equipe de apenas duas pessoas, participo ativamente de tudo que envolve informática dentro da empresa. Cotação e compra de equipamentos, configuração de máquinas e usuários, acompanhamento de diversos processos no MEGA ERP, como faturamento, administração de materiais, manufatura e distribuição. Desenvolvimento de relatórios interativos em Oracle PL/SQL e Crystal Reports, consultas ao banco de dados, etc.
+                 <b><br><br>Projetos:</b> Automatização dos indicadores de qualidade da empresa, muitos feitos de forma manual via softwares de planilhas, participação do projeto de otimização de alguns deles, via relatórios, idealizados e desenvolvidos por mim com contribuição da equipe de qualidade. Foram desenvolvidos os scripts em Oracle PL/SQL, e os módulos gráficos em Crystal Reports, para que, apenas com o preenchimento dos parâmetros, sejam apresentados os indicadores, sem necessidade de preenchimento manual de planilhas.</p>
+            </div>
+        </main>
+
+        <aside>
+            <h2>Contato:</h2>
+            <nav>
+            
+                <ul class="navbar-cont">
+                    
+                    <li><a href="https://web.facebook.com/rodrigo.oberhuber"> Facebook  </a></li>
+                    <li><a href="https://www.linkedin.com/in/rodrigo-b-6b722b126/">Linkedin</li>
+                    <li><a href="https://github.com/robarsotti"> Github </a></li>
+                    <li> E-mail para contato: r.barsotti@outlook.com</li>        
+                </ul>
+            </nav>
+        </aside>    
+            
+            
+            <footer>
+                <p>Rodrigo Barsotti 2020 - SP3020053</p>
+            </footer>
+        </body>
+    </html>
+
+
+            
